@@ -34,12 +34,12 @@ Usage:
 
     On the GUI options:
 
-    1.  "Name a clustfile" : Name the modfile as i.e. Modfile.txt
+    1.  "Name a clustfile" : Name the modfile as i.e. Clustfile.txt
         "Name an outfile"  : Name an outfile as i.e. Output.txt
         "Select inputFile" : Select <path to the FlexiCoClustering.jar>\exampla\input.txt
     2.  Press the "Execute" button. On default, this program will run for 100 iterations
-        (MaxTemps) and produces and update heatmap image files (.png) in every 10 iterations 
-        interval for binary and continuous variables. The Output.txt and Modfile.txt 
+        (MaxTemps) and produces and updates heatmap image files (.png) in every 10 iterations 
+        interval for binary and continuous variables. The Output.txt and Clustfile.txt 
         will be updated as the program progress and once the program terminated respectively.
     3.  If more then the initially specified number of iterations is required after step 2 had
         finished, re run the program by first inserting current run step number in the NRun
