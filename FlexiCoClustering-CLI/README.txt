@@ -16,15 +16,11 @@ the FlexiCoClustering project page at http://www.bioinformatics....
 
 Contents of release:
 
-    FlexiCoClustering v.0.1
-    | FlexiCoClustering-v.0.1.jar - the library. Put this anywhere on your class path.
-    | src - directory containing all the java source.
-    | javadoc - directory containing the javadoc for this release.
+    FlexiCoClustering-CLI
+    | FlexiCoClustering- the package folder
     | README - this file.
     | LICENSE - details of the GPL license this software is covered by.
-    | example - directory containing example files required to run this program.
-    | ext - directory containing all external libraries reguired for this program.
-    | Documentation - the FlexiCoClustering v.0.1 manual file
+    | Documentation - the FlexiCoClustering manual file
 
 
 Usage:
@@ -45,7 +41,26 @@ Input file (i.e. Input.txt):
     A space " " separated file.
 
     +--------------------------------------------------------------------------+
-    |     |
+    | NItems: 170                                                              |
+    | NBinary: 9                                                               |
+    | NContinuous: 9                                                           |
+    | Agglomerative                                                            |
+    | IC: AIC                                                                  |
+    | MergeSplitProbability: 0.25                                              |
+    | MaximumIterations: 100                                                   |
+    | StartTemp: 500                                                           |
+    | TempFactor: 0.999                                                        |
+    | MaxTemps: 1000                                                           |
+    | MaxRepIters: 2000                                                        |
+    | Seed: 1                                                                  |
+    | EMIterations: 100                                                        |
+    | OutInterval: 1                                                           |
+    | ClustFile: clustfile.txt                                                 |
+    | SinglePoint: 0                                                           |
+    | NClusters: 0                                                             |
+    | NormExp: 1                                                               |
+    | MixCoefficient: 1                                                        |
+    | Nrun: 0                                                                  |
     |TCGA1 0 0 0 1 0 0 0 0 1 3.41 2.81 8.91 9.91 13.44 2.33 9.09 9.82 0.01     |
     |TCGA2 1 0 0 0 0 0 0 0 1 3.41 2.81 8.91 9.91 13.44 2.33 9.09 9.82 0.01     |
     |TCGA3 0 0 0 0 0 1 0 0 1 3.41 2.81 8.91 9.91 13.44 2.33 9.09 9.82 0.01     |
