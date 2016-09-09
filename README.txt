@@ -13,24 +13,24 @@
 Contents of release:
 
     FlexiCoClustering 
-    | FlexiCoClustering.jar - the main executable file. See usage below.
-    | src - directory containing all the java source.
-    | javadoc - directory containing the javadoc for this release.
-    | README - this file.
-    | LICENSE - details of the GPL license this software is covered by.
-    | example - directory containing example file required to run this program.
-    | ext - directory containing all external libraries reguired for this program.
+    | FlexiCoClustering.jar - the main executable file. See usage below
+    | README - this file
+    | LICENSE - details of the GPL license this software is covered by
     | Documentation - the FlexiCoClustering manual file
 
 Usage:
 
     To run the demo (using JDK 1.8.0), use the following command:
-
+    
+    Double click the .jar file
+    
+    or 
+    
     On Windows command promt
-    java -jar <path to the FlexiCoClustering.jar>\FlexiCoClustering.jar
+    java -jar <path to the FlexiCoClusteringGUI\FlexiCoClustering.jar>\FlexiCoClustering.jar
 
-    On any Linux/Unix distributions
-    java -jar <path to the FlexiCoClustering.jar>/FlexiCoClustering.jar
+    On any Linux/Unix distributions terminal
+    java -jar <path to the FlexiCoClusteringGUI/FlexiCoClustering.jar>/FlexiCoClustering.jar
 
     On the GUI options:
 
