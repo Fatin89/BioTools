@@ -27,7 +27,7 @@ Usage:
 
     To run the demo , use the following command:
 
-    java  <path to the FlexiCoClustering>.ClustProg <Input.txt> <Output.txt>
+    java  <path to the FlexiCoClustering.jar> <input.txt> <Output.txt>
     
     Press enter
     
