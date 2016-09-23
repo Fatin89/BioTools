@@ -27,7 +27,7 @@ Usage:
     or 
     
     On Windows command promt
-    java -jar <path to the FlexiCoClusteringGUI\FlexiCoClustering.jar>\FlexiCoClustering.jar
+    java -jar <path to the FlexiCoClustering.jar>/FlexiCoClustering.jar
 
     On any Linux/Unix distributions terminal
     java -jar <path to the FlexiCoClusteringGUI/FlexiCoClustering.jar>/FlexiCoClustering.jar
