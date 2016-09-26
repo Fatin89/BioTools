@@ -71,7 +71,7 @@ GENE7 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 1 1 0 -0.4897891989 -1.1889511486 -0.445
                                         .
                                         .
 +--------------------------------------------------------------------------------------------------------------------------------    
-      Third line onwards:
+      18th line onwards:
        1.  First column: The data points names (i.e. gene names, sample names)
        2.  Second column onwards are the binary inputs ("1" and "0", continulous numbers)
 
