@@ -45,7 +45,7 @@ Usage:
     3.  If more then the initially specified number of iterations is required after step 2 had
         finished, re run the program by first inserting current run step number in the NRun
         and then press the "Execute" button again.
-    4. The program can be terminated at any time by pressing 'Stop' button.
+    4. The program can be terminate at any time by pressing 'Stop' button.
         
 Input file (i.e. input.txt):
 
