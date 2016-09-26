@@ -43,8 +43,7 @@ Usage:
         interval for binary and continuous variables. The Output.txt and Clustfile.txt 
         will be updated as the program progress and once the program terminated respectively.
     3.  If more then the initially specified number of iterations is required after step 2 had
-        finished, re run the program by first inserting current run step number in the NRun
-        and then press the "Execute" button again.
+        finished, re run the program by first inserting current run step number in the NRun.Increase the MaxTemps to a higher value than previous run (if the MaxTemps iteration was completed) or else, just use default MaxTemps and then press the "Execute" button again.
     4. The program can be terminate at any time by pressing 'Stop' button.
         
 Input file (i.e. input.txt):
