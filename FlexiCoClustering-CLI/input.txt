@@ -8,7 +8,7 @@ MaximumIterations: 100
 StartTemp: 500
 TempFactor: 0.99
 MaxTemps: 100000
-MaxRepIters: 20000
+MaxRepIters: 100
 Seed: 1
 EMIterations: 100
 OutInterval: 1
