@@ -49,7 +49,7 @@ Usage:
 Input file (i.e. input.txt):
 
 A space " " separated file.
---------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 BinaryInputs: Reg1 Reg2 Reg3 Reg4 Reg5 Reg6 Reg7 Reg8 Reg9 Reg10 Reg11 Reg12 Reg13 Reg14 Reg15 Reg16 Reg17 Reg18 Reg19 Reg20                    
 ContinuousInputs: Exp1 Exp2 Exp3 Exp4 Exp5 Exp6 Exp7 Exp8 Exp9 Exp10 Exp11 Exp12 Exp13 Exp14 Exp15 Exp16 Exp17 Exp18 Exp19 Exp20                    
 GENE0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 1 1 0 -0.4765386533 -1.20066852 -0.422161301 -0.4769262762 -0.3915312885 1.6614625942 -0.5264303615 0.5148318734 -0.7380265044 0.7983998534 1.6788213258 0.3525189371 -0.5343971289 0.8074409234 -1.1545894616 1.1516130154 -1.313722178 1.6782261766 -1.0162295721 -0.3512150164
@@ -63,7 +63,7 @@ GENE7 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 1 1 0 -0.4897891989 -1.1889511486 -0.445
                                         .
                                         .
                                         .
----------------------------------------------------------------------------------------------------------------------------------    
+-----------------------------------------------------------------------------
       Third line onwards:
        1.  First column: The data points names (i.e. gene names, sample names)
-       2.  Second column onwards are the binary inputs ("1" and "0", continulous numbers)
+       2.  Second column onwards are the binary inputs ("1" and "0") followed by continuous values
