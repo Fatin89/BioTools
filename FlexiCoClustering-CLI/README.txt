@@ -41,7 +41,7 @@ Usage:
 Input file (i.e. input.txt):
 
 A space " " separated file.
---------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 NItems: 200
 NBinary: 20
 NContinuous: 20
@@ -52,7 +52,7 @@ MaximumIterations: 100
 StartTemp: 500
 TempFactor: 0.99
 MaxTemps: 100000
-MaxRepIters: 20000
+MaxRepIters: 100
 Seed: 1
 EMIterations: 100
 OutInterval: 1
@@ -70,8 +70,9 @@ GENE7 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 1 1 0 -0.4897891989 -1.1889511486 -0.445
                                         .
                                         .
                                         .
-+--------------------------------------------------------------------------------------------------------------------------------    
-      18th line onwards:
+-----------------------------------------------------------------------------
+      18th line onwards
        1.  First column: The data points names (i.e. gene names, sample names)
-       2.  Second column onwards are the binary inputs ("1" and "0", continulous numbers)
+       2.  Second column onwards are the binary inputs ("1" and "0") followed by continuous values    
+     
 
